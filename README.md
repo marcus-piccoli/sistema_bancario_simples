@@ -1,4 +1,3 @@
-md
 # 💰 Sistema Bancário Simples
 
 Este projeto foi criado como um **desafio do curso "Suzano - Python Developer"** da plataforma de cursos **DIO.me**. Ele simula um **sistema bancário básico**, permitindo **depósitos, saques e visualização de extrato**, com funcionalidades simples e intuitivas.
